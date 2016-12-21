@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "yiisoft/yii" : "~1.1.15",
+        "yiisoft/yii" : "1.*",
         "raven/raven": "~0.10"
     },
     "require-dev":{
